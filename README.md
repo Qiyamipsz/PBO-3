@@ -1,4 +1,4 @@
-# Praktikum pemrograman berorientasi obje
+# Praktikum pemrograman berorientasi objek
 ## Metode
 Metode adalah fungsi yang didefinisikan di dalam suatu kelas. Metode menggambarkan operasi yang dapat dilakukan oleh suatu objek.
 
